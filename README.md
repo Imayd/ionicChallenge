@@ -1,2 +1,2 @@
 # ionicChallenge
-A simple User Form using ionic
+A basic User Form using ionic
